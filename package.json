@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express-on-aws-ec2",
+  "version": "1.0.0",
+  "description": "Sample simple CICD for node app in AWS EC2 using codebuild and codepipeline",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karljosebuena/nodejs-express-on-aws-ec2.git"
+  },
+  "author": "Karl Jose Buena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karljosebuena/nodejs-express-on-aws-ec2/issues"
+  },
+  "homepage": "https://github.com/karljosebuena/nodejs-express-on-aws-ec2#readme"
+}
